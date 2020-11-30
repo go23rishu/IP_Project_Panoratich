@@ -1,0 +1,2 @@
+# IP_Project_Panoratich
+Panoratich is an online tool used to stitch your images having some common keypoints. The tool is based on Artificial Intelligence which will detect the keypoints in your images irrespective of the order in which you have submitted the files. All the images must be in same file extension and should have good lighted background. The results produced will be high resolution wide angle panoramic image.
